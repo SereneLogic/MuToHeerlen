@@ -14,5 +14,6 @@ namespace MuToHeerlen
 {
     class Class_Mural
     {
+
     }
 }
