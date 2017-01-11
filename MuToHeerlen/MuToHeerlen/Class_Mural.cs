@@ -14,6 +14,11 @@ namespace MuToHeerlen
 {
     class Class_Mural
     {
-
+        public int Id;
+        public string Name;
+        public string Artist;
+        public string Description_NL;
+        public string Description_EN;
+        public string Location;
     }
 }
