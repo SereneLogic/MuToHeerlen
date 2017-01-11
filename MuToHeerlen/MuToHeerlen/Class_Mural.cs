@@ -14,6 +14,6 @@ namespace MuToHeerlen
 {
     class Class_Mural
     {
-
+        public int Id = 1;
     }
 }
